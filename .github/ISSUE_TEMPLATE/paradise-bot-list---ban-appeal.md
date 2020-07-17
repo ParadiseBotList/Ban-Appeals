@@ -26,7 +26,8 @@ Your ban appeal could be rejected if it fails to follow the listed guidelines.
 
 Your Discord Username | Reason For Ban
 ------------ | -------------
-**Username Here** | **Reason here**
+**Provide your Discord username Here** | **Provide reason you were banned here**
+
 
 Reason For Appeal | Banned By
 ------------ | -------------
