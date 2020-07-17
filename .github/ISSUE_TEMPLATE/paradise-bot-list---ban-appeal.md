@@ -13,7 +13,7 @@ We're sorry to hear you were banned, Please fill out the Appeal form below and a
 # Ban Appeal Rules
 Your ban appeal could be rejected if it fails to follow the listed guidelines.
 
-* 1) - Please be as descriptive as possible, "i was banned please unban me" is not a good enough reason, You can Provide screenshots, links to messages etc as proof of your reason for ban.
+* 1) Please be as descriptive as possible, "i was banned please unban me" is not a good enough reason, You can Provide screenshots, links to messages etc as proof of your reason for ban.
  
 * 2) Please explain in as much detail as possible why you would like to be unbanned.
 
@@ -32,3 +32,6 @@ Response: -**Provide your Discord username Here**- | Response: -**Provide reason
 Reason For Appeal | Banned By
 ------------ | -------------
 Response: -**Reason you are applying for a appeal.**- | Response: -**Staff Member who banned you's username**-
+
+# More Information
+If you feel like you have been mistreated in this situation please contact our Owner/Managment team at ``paradisebotlist@gmail.com``
