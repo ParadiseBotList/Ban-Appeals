@@ -1,6 +1,6 @@
 ---
 name: Paradise Bot List | Ban Appeal
-about: Please be as Descriptive of possible..
+about: Apply for a Ban Appeal here, Please be as Descriptive of possible..
 title: "[Ban Appeal]"
 labels: Appeals
 assignees: ParadiseBotList
