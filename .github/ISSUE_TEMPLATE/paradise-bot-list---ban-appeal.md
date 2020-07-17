@@ -23,6 +23,7 @@ Your ban appeal could be rejected if it fails to follow the listed guidelines.
 
 
 # Appeal Form
+
 Your Username | Reason For Ban | Reason For Appeal
 ------------ | -------------
 **Provide Username Here** | **Provide reason here** | **Provide reason here**
